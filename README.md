@@ -4,10 +4,10 @@
 
 ## Prerequisites
 
-[Simple DirectMedia Library SDL2](https://www.libsdl.org/) - windowing and input
-[OpenGL SDK](https://opengl.org/sdk/) - graphics rendering
-[OpenGL Matematics GLM](https://glm.g-truc.net) - math
-[Bullet 3D Physics](https://pybullet.org) - physics
+* [Simple DirectMedia Library SDL2](https://www.libsdl.org/) - windowing and input
+* [OpenGL SDK](https://opengl.org/sdk/) - graphics rendering
+* [OpenGL Matematics GLM](https://glm.g-truc.net) - math
+* [Bullet 3D Physics](https://pybullet.org) - physics
 
 ## Building
 ```
