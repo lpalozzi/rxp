@@ -1,6 +1,9 @@
 # rxp
 
 `rxp` is a work in progress 3D pinball computer game.
+<p align="center">
+  <img width="640" height="480" src="https://i.imgur.com/j397BTV.gif">
+</p>
 
 ## Prerequisites
 
