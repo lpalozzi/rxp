@@ -11,6 +11,7 @@
 * [OpenGL SDK](https://opengl.org/sdk/) - graphics rendering
 * [OpenGL Matematics GLM](https://glm.g-truc.net) - math
 * [Bullet 3D Physics](https://pybullet.org) - physics
+* [GLTF](https://www.khronos.org/gltf) - 3D exporting/importing
 
 ## Building
 ```
